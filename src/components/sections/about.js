@@ -126,6 +126,10 @@ const About = () => {
   }, []);
 
   const skills = [
+    'HTML',
+    'CSS',
+    'Bootstrap',
+    'Material UI',
     'JavaScript (ES6+)',
     'TypeScript',
     'React',
@@ -138,6 +142,7 @@ const About = () => {
     'Mongodb',
     'REST API',
     'Graphql',
+    'git/github',
   ];
 
   return (
