@@ -160,7 +160,7 @@ const About = () => {
             <p>
             My interest in immersing myself in the technology field arose when I attend my higher educatin in Software Engineering.
             I was determined to use my time to learn  and practice new things.
-             My specialities include, but not limited to skills listed below.
+             My specialities include, but not limited to technologies listed below.
               I am still exploring and learning other programming languages and frameworks that catch my interest.
                As a Full stack web developer, I bring determination, problem-solving abilities, spirit and eagerness to be part of your innovative team.
             </p>

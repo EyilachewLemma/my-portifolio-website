@@ -3,7 +3,7 @@ date: '2'
 title: 'Ecommerce for Solar produts'
 cover: './ecommerce.png'
 github: 'https://github.com/EyilachewLemma/Digital-Sales-Application'
-external: 'marketing.rensysengineering.com'
+external: 'https://marketing.rensysengineering.com'
 cta: ''
 tech:
   - Vuejs
