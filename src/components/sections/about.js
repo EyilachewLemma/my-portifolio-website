@@ -141,7 +141,6 @@ const About = () => {
     'MySQL',
     'Mongodb',
     'REST API',
-    'Graphql',
     'git/github',
   ];
 
@@ -153,7 +152,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Eyilachew Lemma and I am a full stack web developer 
+              Hello! My name is Eyilachew Lemma and I am a full stack web developer
               valued for driving high-performance accessible web experiences.
                I developed quality, user-friendly and scalable products regardless of stack.
             </p>
