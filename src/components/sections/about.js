@@ -162,7 +162,7 @@ const About = () => {
               Collaborating with different people to fix problems and achieve goals has always been a passion.
             </p>
             <p>
-            My interest in immersing myself in the technology field arose when I attend my higher educatin in Software Engineering.
+            My interest in immersing myself in the technology field arose when I attend my higher education in Software Engineering.
             I was determined to use my time to learn  and practice new things.
              My specialities include, but not limited to technologies listed below.
               I am still exploring and learning other programming languages and frameworks that catch my interest.
